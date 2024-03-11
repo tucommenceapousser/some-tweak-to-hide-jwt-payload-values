@@ -110,9 +110,12 @@ python3 main.py
 - JWT Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aW1lc3RhbXAiOiIyMDI0LTAyLTI5IDA3OjQ2OjA4IiwidXNlcmlkIjoiVlZaY1VVRlRYMTRGT2tkRVVVRnBFVlpmVFd3S0VHa0xVeFVLYXd0SE9rQUFXMVJYREdZV1FBbz0ifQ.bM_6cBZHdXhMZjyefr6YO5n5X51SzXjyBUEzFiBaZ7Q
 - Decoded JWT: {'timestamp': '2024-02-29 07:46:08', 'userid': 'VVZcUUFTX14FOkdEUUFpEVZfTWwKEGkLUxUKawtHOkAAW1RXDGYWQAo='}
 
-# Run again
-- Decoded JWT: {'timestamp': '2024-02-29 08:16:36', 'userid': '='}
-- Decoded JWT
+# run again
+- Decoded JWT: {'timestamp': '2024-02-29 08:16:36', 'userid': 'VVZcUUFTX14FaRNAVBRpRQcORmtWRGleVUtRZlYXaBZZCgYOWGlDR10='}
+- Decoded JWT: {'timestamp': '2024-02-29 08:16:51', 'userid': 'VVZcUUFTX14FZxMRVUdnEgJZEmxfRztRVUBabAsRZkdVVlJWWztGQVA='}
+- Decoded JWT: {'timestamp': '2024-02-29 08:17:01', 'userid': 'VVZcUUFTX14FbxYQUkM8RVRZEmkLRWsNUBYNb1sQPREFDFYKDmYRQV4='}
+- Decoded JWT: {'timestamp': '2024-02-29 08:17:09', 'userid': 'VVZcUUFTX14FbUNEVEVqEFlaTGoKQjxZBRULOlpGPUtSClALWD5GRAs='}
 ```
 
 </details>
+![img](https://github.com/password123456/some-tweak-to-hide-jwt-payload-values/blob/main/jwt.png)

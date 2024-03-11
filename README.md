@@ -117,5 +117,6 @@ python3 main.py
 - Decoded JWT: {'timestamp': '2024-02-29 08:17:09', 'userid': 'VVZcUUFTX14FbUNEVEVqEFlaTGoKQjxZBRULOlpGPUtSClALWD5GRAs='}
 ```
 
-</details>
+
 ![img](https://github.com/password123456/some-tweak-to-hide-jwt-payload-values/blob/main/jwt.png)
+</details>

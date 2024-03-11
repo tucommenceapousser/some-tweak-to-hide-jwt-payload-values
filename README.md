@@ -1,5 +1,5 @@
 
-  <summary>## 🌟 Some Tweak to Safeguard JWT Payload Values</summary>
+# 🌟 Some Tweak to Safeguard JWT Payload Values
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpassword123456%2Fsome-tweak-to-hide-jwt-payload-values&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -8,6 +8,13 @@
   <a href="https://github.com/password123456/some-tweak-to-hide-jwt-payload-values/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-MIT-darkblue?style=for-the-badge&logo=mit"></a>
   <a href=""><img title="Python" src="https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python"></a>
   <a href="https://github.com/password123456"><img title="Author" src="https://img.shields.io/badge/Author-password123456-blue?style=for-the-badge&logo=github"></a>
+  ---
+
+<!-- Vues du référentiel -->
+**Vues du référentiel** ![](https://komarev.com/ghpvc/?username=tucommenceapousser&color=blueviolet&base=1&style=plastic)
+
+---
+
 </p>
 
 <details id="overview">

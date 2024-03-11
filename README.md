@@ -1,7 +1,7 @@
 
 # 🌟 Some Tweak to Safeguard JWT Payload Values
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftucommenceapousser%2Fsome-tweak-to-hide-jwt-payload-values&count_bg=%2379C83D&title_bg=%23ff0000&icon=&icon_color=%23fff000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftucommenceapousser%2Fsome-tweak-to-hide-jwt-payload-values%2Ftree%2Fmain&count_bg=%236FFF02&title_bg=%23000000&icon=ktm.svg&icon_color=%23FF0500&title=viewers&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p align="center">
   <a href="https://github.com/password123456/some-tweak-to-hide-jwt-payload-values"><img title="Version" src="https://img.shields.io/badge/Version-1.0.0-darkblue?style=for-the-badge&logo="></a>

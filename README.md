@@ -4,12 +4,15 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftucommenceapousser%2Fsome-tweak-to-hide-jwt-payload-values%2Ftree%2Fmain&count_bg=%236FFF02&title_bg=%23000000&icon=ktm.svg&icon_color=%23FF0500&title=viewers&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p align="center">
-  <a href="https://github.com/password123456/some-tweak-to-hide-jwt-payload-values"><img title="Version" src="https://img.shields.io/badge/Version-1.0.0-darkblue?style=for-the-badge&logo="></a>
-  <a href="https://github.com/password123456/some-tweak-to-hide-jwt-payload-values/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-MIT-darkblue?style=for-the-badge&logo=mit"></a>
+  <a href="https://github.com/tucommenceapousser/some-tweak-to-hide-jwt-payload-values"><img title="Version" src="https://img.shields.io/badge/Version-1.0.0-darkblue?style=for-the-badge&logo="></a>
+  <a href="https://github.com/tucommenceapousser/some-tweak-to-hide-jwt-payload-values/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-MIT-darkblue?style=for-the-badge&logo=mit"></a>
   <a href=""><img title="Python" src="https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python"></a>
-  <a href="https://github.com/password123456"><img title="Author" src="https://img.shields.io/badge/Author-password123456-blue?style=for-the-badge&logo=github"></a>
-  
-  ![](https://komarev.com/ghpvc/?username=tucommenceapousser&color=blueviolet&base=1&style=for-the-badge&label=number_of_viewers)
+  <a href="https://github.com/password123456"><img title="Author" src="https://img.shields.io/badge/Author-tucommenceapousser-blue?style=for-the-badge&logo=github"></a>
+
+[![GitHub stars](https://img.shields.io/github/stars/tucommenceapousser/some-tweak-to-hide-jwt-payload-values.svg?style=flat&label=Stars&color=yellow)](https://github.com/tucommenceapousser/some-tweak-to-hide-jwt-payload-values/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/tucommenceapousser/some-tweak-to-hide-jwt-payload-values.svg?style=flat&label=Forks&color=green)](https://github.com/tucommenceapousser/some-tweak-to-hide-jwt-payload-values/network)
+![GitHub watchers](https://img.shields.io/github/watchers/tucommenceapousser/some-tweak-to-hide-jwt-payload-values.svg?style=flat&label=Watchers&color=blue)
+![GitHub views](https://komarev.com/ghpvc/?username=tucommenceapousser&color=blueviolet&base=1&style=for-the-badge&label=number_of_viewers)
 
 </p>
 
